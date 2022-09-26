@@ -1,0 +1,17 @@
+#morad MOTHn9-20-2022
+o = "hello"
+print(len(o))
+# the result of length will be 5
+t= "hi"
+l=(t+o)
+l
+# printed a concatenate of (t+o)'hihello'
+gl=["cake","water","banana"]
+for f in range(1,10):
+    print(f,',',end="")
+
+    
+# the result if adding a (,) 1 ,2 ,3 ,4 ,5 ,6 ,7 ,8 ,9 ,
+q="bazinga"
+q[2:6]
+#'zing' the result of using slice notation

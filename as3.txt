@@ -1,0 +1,38 @@
+morad Mothana 9-20-22
+q="Animal"
+w="Badger"
+r="Honey Bee"
+t="Honey Badger"
+q.upper()
+#'ANIMAL'
+w.upper()
+#'BADGER'
+r.upper()
+#'HONEY BEE'
+t.upper()
+#'HONEY BADGER'
+q.lower()
+#'animal'
+w.lower()
+#'badger'
+r.lower()
+#'honey bee'
+s="   Filet Mignon"
+d="Brisket    "
+f=" Cheeseburger  "
+s.lsplit()
+#"Filet Mignon"
+d.lstrip()
+#'Brisket    '
+d.rstrip()
+#'Brisket'
+f.rstrip().lstrip()
+#"Cheeseburgerâ€
+"Becomes".startswith("be")
+#False
+'becomes'.startswith('be')
+#True
+'BEAR'.startswith('be')
+#False
+'bEautiful'.startswith('be')
+#False

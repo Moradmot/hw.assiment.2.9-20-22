@@ -1,0 +1,33 @@
+#morad Mothana 9-20-22
+
+l = '5'
+int(l)
+# 5 result
+l
+#'5' result
+l=int(l)
+l
+#5 result
+l * 6
+#30 result
+k='9.6'
+j=float(k)
+j
+# 9.6 result
+print(str(l),str(k))
+# 5 9.6  result
+
+n = int(input('Choose a Number.'))
+z = int(input('Choose a Diffrent Number.'))
+number = n * z
+
+print("the product of" ,n, "and" ,z, "is", float(number))
+
+x ="hello world"
+p=x.find("hello")
+print(x)
+# hello world
+
+
+#morad mothana
+

@@ -1,0 +1,14 @@
+#morad mothana 09-18-2022
+
+s= "hello's" , "hi" , "so" # string with double quotes also apostrophe used in string
+p= 'helloa    ' 
+x = 0
+while x < 5:
+    print(p, end='')
+    x+=1 # used to span the word helloa
+
+while x < 5:
+    print(p)
+    x+=1 #used to span helloa on diffrent lines
+#final date 09-18-22
+#end morad mothana
